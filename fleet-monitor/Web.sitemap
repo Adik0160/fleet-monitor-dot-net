@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+  <siteMapNode url="~/Default.aspx" title="Strona główna"  description="">
+    <siteMapNode url="~/logowanie.aspx" title="Logowanie"  description="" />
+	<siteMapNode url="~/podglad.aspx" title="Podgląd pojazdów"  description="">
+		<siteMapNode url="~/mapa.aspx" title="Mapa pojazdów"  description="" />
+		<siteMapNode url="~/paliwo.aspx" title="Zużycie paliwa"  description="" />
+		<siteMapNode url="~/galeriasamochodow.aspx" title="Galeria pojazdów"  description="" />	
+	</siteMapNode>
+	<siteMapNode url="~/kontakt.aspx" title="Kontakt"  description="" />
+	<siteMapNode url="~/systemy.aspx" title="Inne systemy"  description="" />
+	<siteMapNode url="~/osystemie.aspx" title="Czym jest system monitorowania floty"  description="" />
+	<siteMapNode url="~/modyfikacjapojazdow.aspx" title="Dodaj lub usuń pojazdy"  description="" />
+  </siteMapNode>
+</siteMap>
